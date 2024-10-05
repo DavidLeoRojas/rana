@@ -1,1 +1,2 @@
-"# rana" 
+"# En la carpeta rana_numeros_propios se encuentra todo el codigo generado para la simulacion del ejercico de la rana usando numeros pseudoaleatorios generados por el metodo de numeros cuadrados asi como se encuentra la simulacion para una de las preguntas planteadas en el taller "millonesimoSalto"
+De igual manera en la carpeta rana se encontraran las simulaciones pero con la diferencia de que se utilizan mas numeros generados por el metodo random. " 
